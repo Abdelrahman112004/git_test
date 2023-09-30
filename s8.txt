@@ -1,0 +1,19 @@
+
+-javaScript -لازم تعمل تاسكاته-مختلفة
+- weak data type
+- اسأله ولو خاص عن أي حاجه مش مهم
+-اسأل على الجروب 
+-اللغة الوحيدة للbrower
+- html and css لغات وصفية
+-js اخر شيء بيتحمل قي الموقع لزلك بنحطه في البضي
+script langluluge--imtrept
+prog langluluge
+
+- الاصل في اختراع الكمبيوتر علشان الاله حاسبه
+-ASI-البرنامج هو اللي بيحط;لوحد لما يشتغل
+-cross application , can use js
+
+-main,index--> اللي بتكتب فيه الكود الجافا الاساسي
+- aray can have all types
+
+
